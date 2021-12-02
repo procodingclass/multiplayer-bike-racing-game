@@ -1,5 +1,5 @@
 {
-  "cars_at_end" : 0,
-  "gameState" : 0,
-  "playerCount" : 0
+  "bikesAtEnd": 0,
+  "gameState": 0,
+  "playerCount": 0
 }
